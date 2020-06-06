@@ -6,6 +6,7 @@
 const name = 'Hector'
 const last_name = "Hdez"
 const age = 33
+const name2= 'Julio'
 
 
 //guardamos
@@ -31,4 +32,7 @@ const age = 33
 //git commit -m >> Crear la primera version o el numero de version del archivo editado
 
 //Checamos el estatus con >> git status >> aparece que no hay nada para hacer commit, lo que la version del archivo ya se subio
+
+//Si editamos el archivo, volver a picar >> git add
+//y Colocarle las versiones >> git commit -m "agregue last name y age"
 
