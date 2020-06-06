@@ -41,3 +41,12 @@ const school = 'DevF'
 
 //ahora para agregar el archivo al repositorio nuevo creado en Github , se agrega el repositorio>> git remote add origin https://github.com/juliohdnz/DemoProject2.git
 // y ahora lo subimos al repositorio >> git push -u origin master
+
+//agregue la escuela, add, commit y push ahora
+//agregar json
+
+//npm i request >> instalar
+//npm i axios >> install
+
+// no podemos subir los 676 archivos instalados por axios y request
+//nuevo arrchivo llamado .gitignore
