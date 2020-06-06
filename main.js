@@ -35,4 +35,8 @@ const name2= 'Julio'
 
 //Si editamos el archivo, volver a picar >> git add
 //y Colocarle las versiones >> git commit -m "agregue last name y age"
+//agregue segundo nombre name2 y aparece una M >> modified
+//por lo que hay que crear de nuevo add y commit
 
+//ahora para agregar el archivo al repositorio nuevo creado en Github , se agrega el repositorio>> git remote add origin https://github.com/juliohdnz/DemoProject2.git
+// y ahora lo subimos al repositorio >> git push -u origin master
