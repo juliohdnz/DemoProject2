@@ -7,6 +7,7 @@ const name = 'Hector'
 const last_name = "Hdez"
 const age = 33
 const name2= 'Julio'
+const school = 'DevF'
 
 
 //guardamos
